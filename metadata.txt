@@ -11,12 +11,12 @@
 [general]
 name=go2streetview
 qgisMinimumVersion=3.36
-qgisMaximumVersion=3.98
+qgisMaximumVersion=4.99
+supportsQt6=True
 description=a plugin for Google Street View© interaction within QGIS
-version=10.1
+version=10.2
 author=Enrico Ferreguti
 email=enricofer@gmail.com
-supportsQt6=True
 
 # end of mandatory metadata
 
