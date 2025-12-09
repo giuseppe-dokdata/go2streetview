@@ -16,6 +16,7 @@ description=a plugin for Google Street View© interaction within QGIS
 version=10.1
 author=Enrico Ferreguti
 email=enricofer@gmail.com
+supportsQt6=True
 
 # end of mandatory metadata
 
