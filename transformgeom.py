@@ -1,5 +1,5 @@
 from qgis.core import QgsPointXY, QgsGeometry
-from PyQt5.QtWidgets import QMessageBox
+from PyQt6.QtWidgets import QMessageBox
 import math
 import re
 

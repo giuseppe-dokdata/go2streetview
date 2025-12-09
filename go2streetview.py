@@ -19,11 +19,11 @@
  ***************************************************************************/
 """
 from qgis.PyQt.QtWidgets import QApplication
-from PyQt5 import Qt, QtCore, QtWidgets, QtGui, QtWebEngineWidgets, QtXml, QtNetwork, uic
-from PyQt5.QtWebEngineWidgets import QWebEngineView, QWebEnginePage
-from PyQt5.QtWebChannel import QWebChannel
-from PyQt5.QtCore import QSettings, QTranslator, qVersion, QCoreApplication, Qt
-from PyQt5.QtCore import pyqtSlot
+from PyQt6 import Qt, QtCore, QtWidgets, QtGui, QtWebEngineWidgets, QtXml, QtNetwork, uic
+from PyQt6.QtWebEngineWidgets import QWebEngineView, QWebEnginePage
+from PyQt6.QtWebChannel import QWebChannel
+from PyQt6.QtCore import QSettings, QTranslator, qVersion, QCoreApplication, Qt
+from PyQt6.QtCore import pyqtSlot
 from qgis import core, utils, gui
 from qgis.utils import iface, qgsfunction, plugins
 from string import digits

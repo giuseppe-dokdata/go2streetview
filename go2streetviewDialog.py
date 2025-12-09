@@ -19,7 +19,7 @@ go2streetview
  ***************************************************************************/
 """
 
-from PyQt5 import Qt, QtCore, QtWidgets, QtGui, uic
+from PyQt6 import Qt, QtCore, QtWidgets, QtGui, uic
 from qgis import core, utils, gui
 
 import json

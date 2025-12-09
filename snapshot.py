@@ -18,7 +18,7 @@
 """
 # Import the PyQt and QGIS libraries
 
-from PyQt5 import Qt, QtCore, QtWidgets, QtGui
+from PyQt6 import Qt, QtCore, QtWidgets, QtGui
 from qgis import core, utils, gui
 from string import digits
 from .go2streetviewDialog import snapshotNotesDialog
